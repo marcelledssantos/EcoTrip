@@ -1,0 +1,17 @@
+{
+  "name": "ecotrip-backend",
+  "version": "1.0.0",
+  "description": "Backend da calculadora EcoTrip usando Node.js puro",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ecotrip",
+    "carbono",
+    "sustentabilidade",
+    "node"
+  ],
+  "author": "Marcelle Santos",
+  "license": "MIT"
+}

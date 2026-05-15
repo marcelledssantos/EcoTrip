@@ -1,0 +1,32 @@
+[
+  {
+    "origin": "São Paulo",
+    "destination": "Rio de Janeiro",
+    "distanceKm": 430
+  },
+  {
+    "origin": "São Paulo",
+    "destination": "Curitiba",
+    "distanceKm": 408
+  },
+  {
+    "origin": "São Paulo",
+    "destination": "Belo Horizonte",
+    "distanceKm": 586
+  },
+  {
+    "origin": "Rio de Janeiro",
+    "destination": "Belo Horizonte",
+    "distanceKm": 434
+  },
+  {
+    "origin": "Brasília",
+    "destination": "Salvador",
+    "distanceKm": 1446
+  },
+  {
+    "origin": "Curitiba",
+    "destination": "Florianópolis",
+    "distanceKm": 300
+  }
+]

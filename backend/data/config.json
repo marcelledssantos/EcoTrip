@@ -1,0 +1,39 @@
+{
+  "kgCO2AbsorbedByTreePerYear": 21,
+  "transportFactors": {
+    "car": {
+      "label": "Carro",
+      "factorKgPerKm": 0.192
+    },
+    "bus": {
+      "label": "Ônibus",
+      "factorKgPerKm": 0.105
+    },
+    "plane": {
+      "label": "Avião",
+      "factorKgPerKm": 0.255
+    },
+    "train": {
+      "label": "Trem",
+      "factorKgPerKm": 0.041
+    },
+    "motorcycle": {
+      "label": "Moto",
+      "factorKgPerKm": 0.103
+    }
+  },
+  "profileMultipliers": {
+    "urban": {
+      "label": "Urbano",
+      "multiplier": 1.15
+    },
+    "highway": {
+      "label": "Rodovia",
+      "multiplier": 1
+    },
+    "mixed": {
+      "label": "Misto",
+      "multiplier": 1.08
+    }
+  }
+}
